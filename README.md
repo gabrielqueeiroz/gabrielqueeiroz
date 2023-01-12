@@ -1,7 +1,6 @@
 ## Greetings! I'm Gabriel Queiroz 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=0e75b6&link=https://www.linkedin.com/in/gabrielqueeiroz/)](https://www.linkedin.com/in/gabrielqueeiroz/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=0e75b6&link=https://www.instagram.com/_gabrielqroz/)](https://www.instagram.com/_gabrielqroz/)
 
 ## <samp>About</samp>
 
