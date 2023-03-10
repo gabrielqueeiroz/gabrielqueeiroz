@@ -16,7 +16,7 @@ Python, Java, Ruby, JavaScript, C/C++, C#</samp>
 Git, Maven, Gradle, Docker Compose
 </samp>
 
-<samp> Most used languages in my experiments: </samp>
+<samp> Alguns detalhes da conta </samp>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielqueeiroz)](https://github.com/gabrielqueeiroz?tab=repositories)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=gabrielqueeiroz&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&show_icons=true&hide_title=true&theme=graywhite)
 
